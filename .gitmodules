@@ -1,0 +1,3 @@
+[submodule "moosica/submodules/exportify"]
+	path = moosica/submodules/exportify
+	url = https://github.com/pavelkomarov/exportify
